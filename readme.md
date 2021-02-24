@@ -1,6 +1,6 @@
 # Decentralized Exchange (DEX - orderbook) Dapp
 
-## About this exercise
+## About
 
 A decentralized exchange allow trading with ERC20 tokens using orderbook. The quote currency is DAI. There are 2 trading options : limited order and market order. Users can create buy/sell limit/market orders. They can deposit/ withdraw tokens between their Metamask wallets and their DEX account.
 
